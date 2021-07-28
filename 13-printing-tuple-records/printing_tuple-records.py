@@ -3,7 +3,7 @@
 """
     Exercise 13: Printing Tuple Records
 
-    Sort aand neatly display a list of tuples.
+    Sort and neatly display a list of tuples.
 """
 
 
