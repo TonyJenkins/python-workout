@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-    Exercise 15: Printing Tuple Records
+    Exercise 15: Rainfall
 
     Gather and summarise rainfall data.
 """
