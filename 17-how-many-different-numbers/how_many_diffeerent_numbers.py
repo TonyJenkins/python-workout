@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-    Exercise 16: How Many Different Numbers
+    Exercise 17: How Many Different Numbers
 
     Finds how many unqie values there are in a list of integers.
     Illustrate one use of sets. Could be done procedurally, which might
