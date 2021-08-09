@@ -22,9 +22,14 @@ def find_longest_word(filename):
 
 
 def find_all_longest_words():
+
+    long_words = {}
+
     for filename in listdir('.'):
         if filename.endswith('.txt'):
-            print(f'{filename:30} : {find_longest_word(filename)}')
+            long_words[filename] = find_longest_word(filename)
+
+    return long_words
 
 
 if __name__ == '__main__':
@@ -32,4 +37,5 @@ if __name__ == '__main__':
 
     print()
 
-    find_all_longest_words()
+    for filename, word in find_all_longest_words().items():
+        print(f'{filename:30} : {word}')
