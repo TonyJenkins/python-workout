@@ -3,7 +3,7 @@
 """
     Exercise 16: Dictdiff
 
-    Gather and summarise rainfall data.
+    Find and print the differences between two dictionaries.
 """
 
 
