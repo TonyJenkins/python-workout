@@ -4,7 +4,7 @@
     Exercise 25: XML Generator
 
     Use a function to generate simple XML.
-        Illustrates variable function paramaters.
+        Illustrates variable function parameters.
 """
 
 
