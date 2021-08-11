@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-    Exercise 42: Animals
+    Exercise 43: Animals
 
     The specific animal classes.
 """
