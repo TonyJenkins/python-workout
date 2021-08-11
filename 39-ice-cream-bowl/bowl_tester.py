@@ -14,7 +14,7 @@ if __name__ == '__main__':
     the_bowl = Bowl()
 
     the_bowl.add_scoops(
-        Scoop('Chololate'),
+        Scoop('Chocolate'),
         Scoop('Vanilla'),
         Scoop('Strawberry'),
     )
