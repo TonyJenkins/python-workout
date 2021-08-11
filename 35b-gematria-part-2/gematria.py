@@ -11,6 +11,7 @@ from string import ascii_lowercase as letters
 
 WORD_FILE = 'words.txt'
 
+
 def generate_letter_values():
     return {
         letter: ord(letter) - ord('a') + 1
@@ -29,7 +30,6 @@ def gematria_for(word):
 
 
 def gematria_equal(word):
-
     word_score = gematria_for(word)
 
     return [
