@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-    Exercise 43: Animals
+    Exercise 42: Animals
 
     The base animal class.
         As it happens, an abstract class, but let's not get into that.
