@@ -3,7 +3,7 @@
 """
     Exercise 46: MyEnumerate
 
-    Implementation of the built-in enumerate to illsutrate iterators.
+    Implementation of the built-in enumerate to illustrate iterators.
 """
 
 
